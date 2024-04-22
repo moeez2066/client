@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/moeez2066/client/static/css/main.3a30f750.css",
-    "main.js": "/moeez2066/client/static/js/main.d4adf373.js",
-    "static/js/453.ed3810f9.chunk.js": "/moeez2066/client/static/js/453.ed3810f9.chunk.js",
-    "static/media/benchpress.gif": "/moeez2066/client/static/media/benchpress.90cd3879c6f51ef83acb.gif",
-    "static/media/soccer.gif": "/moeez2066/client/static/media/soccer.a50468180c69cbbd8c04.gif",
-    "static/media/treadmill.gif": "/moeez2066/client/static/media/treadmill.23e484a8c72f99e50844.gif",
-    "static/media/basketball.gif": "/moeez2066/client/static/media/basketball.e5b36d03fe8de742ac00.gif",
-    "static/media/volleyball.gif": "/moeez2066/client/static/media/volleyball.99a186a2602c70f9553f.gif",
-    "static/media/backsquat.gif": "/moeez2066/client/static/media/backsquat.5050fd573af075ed4e96.gif",
-    "static/media/arm.png": "/moeez2066/client/static/media/arm.64980ac7e5721f974f8f.png",
-    "index.html": "/moeez2066/client/index.html",
-    "main.3a30f750.css.map": "/moeez2066/client/static/css/main.3a30f750.css.map",
-    "main.d4adf373.js.map": "/moeez2066/client/static/js/main.d4adf373.js.map",
-    "453.ed3810f9.chunk.js.map": "/moeez2066/client/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/client/static/css/main.3a30f750.css",
+    "main.js": "/client/static/js/main.44554414.js",
+    "static/js/453.ed3810f9.chunk.js": "/client/static/js/453.ed3810f9.chunk.js",
+    "static/media/benchpress.gif": "/client/static/media/benchpress.90cd3879c6f51ef83acb.gif",
+    "static/media/soccer.gif": "/client/static/media/soccer.a50468180c69cbbd8c04.gif",
+    "static/media/treadmill.gif": "/client/static/media/treadmill.23e484a8c72f99e50844.gif",
+    "static/media/basketball.gif": "/client/static/media/basketball.e5b36d03fe8de742ac00.gif",
+    "static/media/volleyball.gif": "/client/static/media/volleyball.99a186a2602c70f9553f.gif",
+    "static/media/backsquat.gif": "/client/static/media/backsquat.5050fd573af075ed4e96.gif",
+    "static/media/arm.png": "/client/static/media/arm.64980ac7e5721f974f8f.png",
+    "index.html": "/client/index.html",
+    "main.3a30f750.css.map": "/client/static/css/main.3a30f750.css.map",
+    "main.44554414.js.map": "/client/static/js/main.44554414.js.map",
+    "453.ed3810f9.chunk.js.map": "/client/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a30f750.css",
-    "static/js/main.d4adf373.js"
+    "static/js/main.44554414.js"
   ]
 }
