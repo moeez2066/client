@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports</title>
+</head>
+<body>
+    <div>
+        <select id="sportsSelect">
+            <option value="basketball">basketball</option>
+            <option value="soccer">soccer</option>
+            <option value="volleyball">volleyball</option>
+        </select>
+
+        <form id="sportsForm">
+            <div>
+                <label for="minutesInput">Time Spent:</label>
+                <input type="number" id="minutesInput" value="" />
+                <label for="minutesInput">minutes</label>
+            </div>
+            <button id="submitButton" type="button">Submit</button>
+        </form>
+
+        <hr>
+
+        <div id="summary"></div>
+    </div>
+
+    <script src="sports.js"></script>
+</body>
+</html>
